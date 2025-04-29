@@ -71,14 +71,14 @@ body {
     border-radius: 0 0 40px 40px;
 }
 
-.aba-conteudo-ativo{
+.aba-conteudo.ativo{
     display: block;
 }
 
 .aba-conteudo{
     display: none;
 }
-ao
+
 .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
